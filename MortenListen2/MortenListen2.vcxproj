@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{45420c59-a291-472b-a20d-bb14c964137e}</ProjectGuid>
     <Keyword>Linux</Keyword>
-    <RootNamespace>MortenListen2</RootNamespace>
+    <RootNamespace>UEListen</RootNamespace>
     <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
     <ApplicationType>Linux</ApplicationType>
     <ApplicationTypeRevision>1.0</ApplicationTypeRevision>
